@@ -1,0 +1,6 @@
+This module runs in Term 1 and is core for students with their home department in Statistics and optional for students studying discrete mathematics. It may be possible for non-finalists from other courses to take this module as an unusual option subject to permission from the module leader and the home department.  
+  This module has pre-requisites: MA106 Linear Algebra and MA137 Mathematical Analysis or equivalent.  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+   Preliminaries: subsets of R^2, inverse images; partial derivatives; determinants.  Multiple integration: calculation of areas and volumes; Fubini's theorem; change of variable; limits of integration; links with probability.  Real Symmetric matrices, quadratic forms, positive definiteness; orthonormal basis of eigenvectors; diagonalisation; covariance matrices.  Differentiation in R^n: classification of critical points; types of extrema; constrained optimisation.  Linear algebra: vector spaces; inner products; orthogonal and orthonormal bases; Gram-Schmidt orthogonalisation; isometries; projections; spectral decomposition.  Metric spaces: open and closed sets; convergence; continuity; compactness. TBC TBC

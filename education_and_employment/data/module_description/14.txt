@@ -1,0 +1,8 @@
+This modules runs in Term 2.  
+  This module is core for students with their home department in Statistics. It is available as an option or unusual option for other students.  
+  Pre-requisites: Statistics Students: ST115 Introduction to Probability AND MA137 Mathematical Analysis Non-Statistics Students: ST111 Probability A AND ST112 Probability B AND (MA131 Analysis I OR MA137 Mathematical Analysis)  
+  Leads to: ST333 Applied Stochastic Processes and ST406 Applied Stochastic Processes with Advanced Topics.  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+   Brief review of fundamental probability notions.  Introduction to Markov processes (Definitions, Chapman-Kolmogorov equations, notions of recurrence, transience, positive recurrence, transition probability matrices,  Long-run behaviour of Markov Chains, (equilibirum distributions, convergence to equilibrium)  Some applications.  Discussion of extensions to continuous settings and if time permits to non-Markov settings. TBC TBC

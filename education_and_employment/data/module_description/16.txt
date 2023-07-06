@@ -1,0 +1,6 @@
+This module runs in Term 1 and is core for students with their home department in Statistics and not available for students from other departments.  
+  Pre-requisite: ST115 Introduction to Probability.  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+  Discrete and continuous multivariate distributions. Marginal distributions. Jacobian transformation formula. Conditional distributions, conditional expectation and properties. Moment generating functions for multivariate random variables. Multivariate Gaussian distribution and properties. Distributions related to Gaussian distribution: the Chi-squared, Student's and Fisher distributions. Convergence in distribution, convergence in probability and almost sure convergence. Examples. Laws of large numbers. Central limit theorem. Mathematical, analytical, problem solving Analytical, problem solving, investigative skills, communication, good working habits

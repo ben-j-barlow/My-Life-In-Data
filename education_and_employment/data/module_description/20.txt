@@ -1,0 +1,11 @@
+This module aims to provide students with an in-depth introduction to two main- areas of Machine Learning: supervised and unsupervised This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+  Intro to Supervised/Unsupervised Learning  
+   
+  Decision Trees
+ 
+  Linear regression: OLS, regularization, linear classifiers  Logistic Regression, Multi-class logistic regression Ranking Support Vector Machines  Feature selection latent factor models (PCA)  Clustering (k-means, soft k-means)  Ensemble methods such as Random Forest and Ada Boost  Probabilistic methods (Bayesian view)  Model evaluation and model selection  
+  Introduction to neural networks and convolutional neural networks
+ 
+  
+  Autoencoders Understand the concept of learning in computer and science. Understand the difference between supervised and unsupervised learning. Understand the difference between machine lea ring and deep learning. Design and evaluate machine and deep learning algorithms. Mathematical analysis of learning methods. Evaluation of algorithms. Programming skills in python.

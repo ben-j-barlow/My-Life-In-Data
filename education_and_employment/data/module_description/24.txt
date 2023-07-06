@@ -1,0 +1,6 @@
+This module runs in Term 2 and is available for students on a course where it is a listed option and as an Unusual Option to students who have completed the prerequisite module ST221 Linear Statistical Modelling.  
+  There is a cap on student numbers for this module and pre-registration is essential. Information about prioritisation and the pre-registration form can be found at  http://go.warwick.ac.uk/ST340   
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+   Computational Complexity.  Principal components analysis and singular value decomposition.  Markov chains and PageRank.  Clustering, EM algorithm.  Bandit problems.  Supervised learning, k-Nearest neighbours.  Supervised and unsupervised learning. Penalised regression.  Support vector machines.  Artificial neural networks.  Gaussian processes.  Parallel and distributed algorithms. TBC TBC

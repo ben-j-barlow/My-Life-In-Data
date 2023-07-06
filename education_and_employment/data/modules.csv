@@ -1,0 +1,29 @@
+﻿id,title,label,department,credits,year,degree,link
+1,Programming for Computer Scientists ,OOP,CS,15,1,BSc,https://courses.warwick.ac.uk/modules/2020/CS118-15
+2,Design of Information Structures ,Data Structures,CS,15,1,BSc,https://courses.warwick.ac.uk/modules/2020/CS126-15
+3,Mathematical Programming I,OR,IB,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/IB104-12
+4,Linear Algebra ,Linear Algebra,MA,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/MA106-12
+5,Mathematical Analysis,Analysis,MA,24,1,BSc,https://courses.warwick.ac.uk/modules/2020/MA137-24
+6,Sets and Numbers,Foundations,MA,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/MA138-12
+7,Statistical Laboratory I ,Other,ST,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/ST104-12
+8,Introduction to Probability ,Probability,ST,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/ST115-12
+9,Mathematical Techniques ,Other,ST,12,1,BSc,https://courses.warwick.ac.uk/modules/2020/ST116-12
+10,Database Systems,Databases,CS,15,2,BSc,https://courses.warwick.ac.uk/modules/2020/CS258-15
+11,Algorithms,Algorithms,CS,15,2,BSc,https://courses.warwick.ac.uk/modules/2020/CS260-15
+12,Software Engineering,Development,CS,15,2,BSc,https://courses.warwick.ac.uk/modules/2020/CS261-15
+13,Logic 1: Introduction to Symbolic Logic,Logic,PH,15,2,BSc,https://courses.warwick.ac.uk/modules/2020/PH136-15
+14,Stochastic Processes,Probability,ST,12,2,BSc,https://courses.warwick.ac.uk/modules/2020/ST202-12
+15,Mathematical Methods,Calculus,ST,12,2,BSc,https://courses.warwick.ac.uk/modules/2020/ST208-12
+16,Mathematical Statistics Part A,Foundations,ST,12,2,BSc,https://courses.warwick.ac.uk/modules/2020/ST218-12
+17,Mathematical Statistics Part B,Foundations,ST,12,2,BSc,https://courses.warwick.ac.uk/modules/2020/ST219-12
+18,Linear Statistical Modelling,Foundations,ST,12,2,BSc,https://courses.warwick.ac.uk/modules/2020/ST221-12
+19,Neural Computing,DL,CS,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/CS331-15
+20,Machine Learning,ML,CS,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/CS342-15
+21,Data Science Project,Research,Diss,30,3,BSc,https://courses.warwick.ac.uk/modules/2020/CS350-30
+22,Simulation,Simulation,IB,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/IB320-15
+23,Finance & Financial Reporting,Other,ST,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/ST335-15
+24,Programming for Data Science,ML,ST,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/ST340-15
+25,Professional Practice of Data Analysis,Data Analysis,ST,15,3,BSc,https://courses.warwick.ac.uk/modules/2020/ST344-15
+26,Machine Learning & Pattern Recognition,ML,INF,20,4,MSc,http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11130.htm
+27,Probabilistic Modelling and Reasoning,ML,INF,20,4,MSc,http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11134.htm
+28,Machine Learning Practical,DL,INF,20,4,MSc,http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11132.htm

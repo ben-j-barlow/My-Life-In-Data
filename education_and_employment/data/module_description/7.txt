@@ -1,0 +1,9 @@
+This module runs in the second half of term 2 and first half of term 3.  
+  This module is core for students with their home department in Statistics and is also available for external students who have taken the necessary prerequisites. This module will be useful for ST221 Statistical Modelling and other modules which use statistical data analysis such as Programming for Data Science and Multivariate Statistics.  
+  Pre-requisites: 
+Statistics Students: ST115 Introduction to Probability Non-Statistics Students:   ST111 Probability A and ST112 Probability B  
+  Results from the coursework from this module may be partly used to determine of exemption eligibility in the computer based assessment components of the Institute and Faculty of Actuaries modules CS1, CS2, CM1 and CM2.  (Independent application to the IFoA may be required.)  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+  Introduction to R Exploratory data analysis: methods of visualisation and summary statistics Sampling from standard discrete and continuous distributions (Bernoulli, Geometric, Poisson, Gaussian, Gamma) Generic methods for sampling from univariate distributions The use of R to illustrate probabilistic notions such as conditioning, convolutions and the law of large numbers Examples of modelling real data (but without formal statistical inference) and the use of visualisations to assess fit TBC TBC

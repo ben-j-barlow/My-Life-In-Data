@@ -1,0 +1,6 @@
+Simulation is one of the most commonly used operational research methods for analysing complex operational/ industrial problems. This module will focus on discrete event simulation. Students will learn the theoretical underpinnings of the methods and the range of applications for which they are useful. They will gain practical experience in problem solving using commercial simulation software. This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+  Topics covered will be:  
+   The discrete-event simulation method  Software for discrete-event simulation (with use of a specific package e.g. Simul8 or Witness)  Performing a simulation study (conceptual modelling, data collection and analysis, experimentation, verification and validation) The tutorials provide the opportunity for supervised exercises and help students develop their own computer based simulation programmes. Develop and use a simulation for investigating a problem situation Develop a working knowledge of a discrete event simulation software package  
+  Work in groups to solve problems cooperatively.  
+  Communicate effectively

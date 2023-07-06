@@ -1,0 +1,18 @@
+Mathematics can be described as the science of logical deduction - if we assume such and such as given, what can we deduce with absolute certainty? Consequently mathematics has a very high standard of truth - the only way to establish a mathematical claim is to give a complete, rigorous proof. Sets and Numbers aims to show students what can be achieved through abstract mathematical reasoning.  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+   
+ Numbers: Number systems: Natural numbers, integers, rationals and real numbers. Existence of irrational numbers. Euclidean algorithm; greatest common divisor and least common multiple. Prime numbers, existence and uniqueness of prime factorisation (and non-uniqueness in other “number systems”, e.g. even integers, Gaussian integers). Properties of commutativity, associativity and distributivity. Infinity of the primes. Summing series of integers; proofs by induction. 
+  
+ Language: Basic set theory: Intersection, Union,  Venn diagrams and de Morgan’s Laws. Logical connectives and, or, implies and their relation with intersection and union 
+  
+ Polynomials: Multiplication and long division of polynomials. Binomial theorem Euclidean algorithm for polynomials. Remainder theorem; a degree n polynomial has at most n roots. Rational functions and partial fractions. Incompleteness of the real numbers, completeness of the complex numbers (sketch). 
+  
+ Counting: Elementary combinatorics as practice in bijections, injections and surjections. Cardinality of the set of subsets of a set X is greater than cardinality of X. Russell’s paradox. Definition of Cartesian product. Countability of the rational numbers, uncountability of the reals. Transcendental numbers exist! 
+   
+  The second (and smaller) part of the module explores the elementary properties of a fundamental algebraic structure called a group. Groups arise in an extraordinary range of contexts in mathematics and beyond (for example, in elementary particle physics and in card tricks), and can be used to analyse the symmetry of geometric objects or physical systems.  
+   
+ Modular arithmetic: 3 hours: Addition, multiplication and division in the integers modulo n. Some theorems of modular arithmetic. Equivalence relations. 
+  
+ Permutations and the symmetric group: Multiplying (composing) permutations. Cycles and disjoint cycle representation. The sign of a permutation. Basic Group Theory Sets and Numbers will provide students with an introduction both to the language and to the methodology of university level mathematics. By studying familiar objects, but from a deeper and more rigorous perspective, they will become accustomed to constructing and evaluating logical arguments, as well as learn how to communicate these arguments precisely. These skills will be used throughout the rest of their degree. Critical thinking, problem solving and analytical skills, group work.

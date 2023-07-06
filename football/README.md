@@ -1,3 +1,0 @@
-# Football
-
-My football story.

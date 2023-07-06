@@ -1,0 +1,7 @@
+This module runs in Term 1 and is only available to students with their home department in Statistics.  
+  The student numbers on this module are strictly limited to 50 and pre-registration will be required.  
+  Please see  http://go.warwick.ac.uk/ST344  for preregistration information and selection criteria.  
+  
+ Module web page This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.
+    
+   The statistical investigative cycle  Data collection and quality  Exploratory analysis of data  Data analysis and visualisations using R  Oral presentations and academic writing skills  Writing for a non-specialist audience  Teamwork, leadership and (multinational) communication TBC TBC
